@@ -353,14 +353,14 @@ graph [
   ]
   edge [
     source 3
-    target 18
-  ]
-  edge [
-    source 3
     target 12
   ]
   edge [
     source 3
+    target 18
+  ]
+  edge [
+    source 3
     target 65
   ]
   edge [
@@ -370,14 +370,14 @@ graph [
   edge [
     source 4
     target 18
+  ]
+  edge [
+    source 4
+    target 12
   ]
   edge [
     source 4
     target 25
-  ]
-  edge [
-    source 4
-    target 12
   ]
   edge [
     source 4
@@ -545,11 +545,23 @@ graph [
   ]
   edge [
     source 12
-    target 16
+    target 13
   ]
   edge [
     source 12
     target 22
+  ]
+  edge [
+    source 12
+    target 26
+  ]
+  edge [
+    source 12
+    target 17
+  ]
+  edge [
+    source 12
+    target 61
   ]
   edge [
     source 13
@@ -689,23 +701,15 @@ graph [
   ]
   edge [
     source 18
-    target 48
-  ]
-  edge [
-    source 18
     target 68
   ]
   edge [
     source 18
+    target 48
+  ]
+  edge [
+    source 18
     target 63
-  ]
-  edge [
-    source 18
-    target 51
-  ]
-  edge [
-    source 18
-    target 52
   ]
   edge [
     source 20
@@ -798,10 +802,6 @@ graph [
   edge [
     source 25
     target 63
-  ]
-  edge [
-    source 25
-    target 28
   ]
   edge [
     source 26
